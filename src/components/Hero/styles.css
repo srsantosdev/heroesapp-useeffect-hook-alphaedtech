@@ -1,0 +1,10 @@
+li {
+  display: block;
+  padding: 16px;
+  background: #fff;
+  border-radius: 10px;
+}
+
+li + li {
+  margin-top: 8px;
+}
